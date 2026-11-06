@@ -1,0 +1,5 @@
+name: dart_bloc_core
+description: BLoC pattern core: Event->State with Cubit
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
